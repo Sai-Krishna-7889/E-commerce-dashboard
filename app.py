@@ -40,7 +40,7 @@ def generate_data():
 
     dates = pd.date_range(
         start="2020-01-01",
-        end="2026-04-31",
+        end="2026-04-30",
         periods=n
     )
 
