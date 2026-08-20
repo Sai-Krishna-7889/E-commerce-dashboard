@@ -39,8 +39,8 @@ def generate_data():
     n = 1000
 
     dates = pd.date_range(
-        start="2020-01-01",
-        end="2026-04-30",
+        start="2015-01-01",
+        end="2026-06-30",
         periods=n
     )
 
